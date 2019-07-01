@@ -1,0 +1,928 @@
+fileFormatVersion: 2
+guid: bb978030e78b9ca4587370074010e87f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7641433572495223786
+    second: flamesWorkspace_0
+  - first:
+      213: -7634640568121107253
+    second: flamesWorkspace_1
+  - first:
+      213: -2401995269397831509
+    second: flamesWorkspace_2
+  - first:
+      213: 4260142620282029160
+    second: flamesWorkspace_3
+  - first:
+      213: -8370949382101166672
+    second: flamesWorkspace_4
+  - first:
+      213: -1076644213247134219
+    second: flamesWorkspace_5
+  - first:
+      213: -5242901807769563395
+    second: flamesWorkspace_6
+  - first:
+      213: 8121637555826468488
+    second: flamesWorkspace_7
+  - first:
+      213: 7099892630934676136
+    second: flamesWorkspace_8
+  - first:
+      213: 8858026214992761559
+    second: flamesWorkspace_9
+  - first:
+      213: 368441124705622359
+    second: flamesWorkspace_10
+  - first:
+      213: -5218790573879767691
+    second: flamesWorkspace_11
+  - first:
+      213: 4941987081693307322
+    second: flamesWorkspace_12
+  - first:
+      213: -8318401955864009442
+    second: flamesWorkspace_13
+  - first:
+      213: 8024943811031106611
+    second: flamesWorkspace_14
+  - first:
+      213: -3078984244555601781
+    second: flamesWorkspace_15
+  - first:
+      213: 4913612006555969741
+    second: flamesWorkspace_16
+  - first:
+      213: 1774131494092263839
+    second: flamesWorkspace_17
+  - first:
+      213: 9179324817870265658
+    second: flamesWorkspace_18
+  - first:
+      213: -7187361886279921646
+    second: flamesWorkspace_19
+  - first:
+      213: -3302181643650297978
+    second: flamesWorkspace_20
+  - first:
+      213: -1649774332074301777
+    second: flamesWorkspace_21
+  - first:
+      213: -3451246130574664293
+    second: flamesWorkspace_22
+  - first:
+      213: -5956082499359081953
+    second: flamesWorkspace_23
+  - first:
+      213: 8362223596762153168
+    second: flamesWorkspace_24
+  - first:
+      213: 6330144602101299061
+    second: flamesWorkspace_25
+  - first:
+      213: -3914629117184158824
+    second: flamesWorkspace_26
+  - first:
+      213: -2469164445719329385
+    second: flamesWorkspace_27
+  - first:
+      213: 650456029995792913
+    second: flamesWorkspace_28
+  - first:
+      213: 5737832221731788464
+    second: flamesWorkspace_29
+  - first:
+      213: 7281931344547498658
+    second: flamesWorkspace_30
+  - first:
+      213: -6228936317107734001
+    second: flamesWorkspace_31
+  - first:
+      213: -4663140311226716484
+    second: flamesWorkspace_32
+  - first:
+      213: -5806645964572549864
+    second: flamesWorkspace_33
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flamesWorkspace_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc87f98dd5ba4449a12bf89f473e5d2
+      internalID: 7641433572495223786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49025ed8e76f54b4bac635e6c52657f9
+      internalID: -7634640568121107253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_2
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4832f8215e3b3184ca46f5cd303e627b
+      internalID: -2401995269397831509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e92a1d94309623c44a35d90864cc8c62
+      internalID: 4260142620282029160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_4
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f975b47631310b479d13788f065488c
+      internalID: -8370949382101166672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_5
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cd93ba37d975a47abb0fc7a5b8d522
+      internalID: -1076644213247134219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_6
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3283b398a61684c80d0cb9e2e2e443
+      internalID: -5242901807769563395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91dfe4f2aa95afa4e935aa68f9933648
+      internalID: 8121637555826468488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_8
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0565d199075893c47a3f53b784122b89
+      internalID: 7099892630934676136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_9
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2e5499f9e004c4ca3410726104cc9e
+      internalID: 8858026214992761559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c15d7b04016fd243b03826d917a5943
+      internalID: 368441124705622359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_11
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae06bb4b094bc9b4a85dd22192cf1a63
+      internalID: -5218790573879767691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d3be6c147873e42ae11215c5b63a2b
+      internalID: 4941987081693307322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_13
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8df7996879ece345b2d525c6ffbf4c8
+      internalID: -8318401955864009442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_14
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a321efb60e5f25469fc8e60037428a0
+      internalID: 8024943811031106611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_15
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f756964681126428712b199a9540ae
+      internalID: -3078984244555601781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_16
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 103
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcaaaa53e856eb24d94e7724b9bd6d11
+      internalID: 4913612006555969741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39443831c6289748b53f7864fa68d76
+      internalID: 1774131494092263839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_18
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02ff8232cf7e9a4183c2c9da87ead3a
+      internalID: 9179324817870265658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_19
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b0b34c178318b4b94dd35c5954b6cb
+      internalID: -7187361886279921646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_20
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9badb4e218d3f946ab358aafa23dc25
+      internalID: -3302181643650297978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_21
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0ae2f6e676ae5543b955651c460bfd0
+      internalID: -1649774332074301777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75276acd3beba8848ab06189d9a317bb
+      internalID: -3451246130574664293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_23
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d419782d8b669a4b89806d703ab7557
+      internalID: -5956082499359081953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_24
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732f41a7bcdda55438b3992cfc7cfde8
+      internalID: 8362223596762153168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_25
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c879f28d83cff74ea53fd31719f3ffd
+      internalID: 6330144602101299061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_26
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf2582f3f152e74ca0c05480a814443
+      internalID: -3914629117184158824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_27
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 440f962ae7030584d82e5a46cb11abe1
+      internalID: -2469164445719329385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_28
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e750c3c5d9e64c3458a7d6a45303e85c
+      internalID: 650456029995792913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_29
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf60a0ea01d83b4eb8bcca53c488ff5
+      internalID: 5737832221731788464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_30
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87fcd78dd839f044fa87360b292bd162
+      internalID: 7281931344547498658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_31
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 187046486c0b3d14c9b7312ad4fcb934
+      internalID: -6228936317107734001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_32
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10edc50d3a0933648a0ca0ab5f8796a4
+      internalID: -4663140311226716484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flamesWorkspace_33
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 28
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58ac21203d126b49afc1b2eb3053b8b
+      internalID: -5806645964572549864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8c9f63e745ed6cc41add5478e3c0d627
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
